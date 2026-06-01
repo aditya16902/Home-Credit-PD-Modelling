@@ -1,0 +1,2 @@
+# Credit-Default-Risk-Modelling-Probability-of-Default-Pipeline-Home-Credit-
+Developed a PD model on the Home Credit dataset, aggregating 7 relational tables (~50M rows) into an applicant-level feature matrix covering bureau history, repayment behaviour, and prior applications. Trained XGBoost/LightGBM classifiers optimised for AUC-ROC, with class imbalance (~8% default rate) handled via scale_pos_weight.
