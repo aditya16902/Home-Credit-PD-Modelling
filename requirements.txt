@@ -1,0 +1,8 @@
+kaggle
+ipykernel
+pandas
+matplotlib
+scikit-learn
+feature-engine
+seaborn
+mlxtend
